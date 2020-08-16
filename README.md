@@ -1,5 +1,5 @@
 # python-api-challenge
-##Homework Week 7
+#Homework Week 7
 #Observable Trends
 1. Data shows a correlation between Latitude and Maximum Temperature
 2. Data shows little correlation between Latitude and Humidity, Wind Speed, and Cloudiness
